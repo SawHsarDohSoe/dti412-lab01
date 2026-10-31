@@ -36,3 +36,15 @@ Technical skills I want to improve: JavaScript, React, Python, databases, and pr
 Technologies I want to learn: Django, APIs, Git, and modern web development tools
 
 Dream Job Position: Software Developer / Full-Stack Developer
+
+Semester Goals
+
+• Learn Django\
+• Learn REST API Development\
+• Learn Cloud Deployment
+
+Portfolio Projects
+
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
